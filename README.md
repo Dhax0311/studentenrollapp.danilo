@@ -1,4 +1,4 @@
-![App Screenshot](file:///C:/Users/gueva/Pictures/Screenshoot/Screenshot%202024-12-19%20133751.png)
+![app main picture](https://github.com/user-attachments/assets/7a36a39f-e750-4e53-b1c0-cd5bddb67362)
 
 # Student Enrollment App
 The **Student Enrollment App** is an Android application designed to facilitate student registration, login, and subject enrollment. It connects to a **local XAMPP server** for **MySQL database** (`student_enrollment`) to store and manage user and enrollment data.
