@@ -10,7 +10,7 @@ The **Student Enrollment App** is an Android application designed to facilitate 
 - **Enrollment Summary**: Displays the enrolled subjects and total credits.
 
 ## Technology Stack
-- **Frontend**: Android (Java/Kotlin)
+- **Frontend**: Android (Java)
 - **Backend**: PHP
 - **Database**: MySQL (XAMPP)
 - **Server**: Local XAMPP Server
